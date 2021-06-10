@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Rufino Domingos
+Build-Jdk: 15.0.2
+Implementation-Title: sisggar-api-v01
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: dev.router
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/sisggar-api-v01
+Created-By: Maven Integration for Eclipse
+
